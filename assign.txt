@@ -1,0 +1,15 @@
+#assigns interger values and displays both assigned values
+a = 8
+b = 4
+print ('Assigned Values:\t\t','a =',a,'\tb=', b)
+#Placing the \t in front of the b variable adds a space
+#between assignments
+
+#Next we are adding and assigning a new value to the
+#first variable and displaying its stored value
+a += b
+print('Add & Assign:\t\t', 'a =', a , '(8 += 4)')
+
+#Subtracts and assigns a new balue to the 1st variable.
+#Displays its stored value, then multiply and assign
+#a value to the first variable and display its stored value.

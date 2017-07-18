@@ -2,7 +2,7 @@
 var = 8
 print(var)
 
-#assign a flaot value to the variable
+#assign a float value to the variable
 var = 3.5
 print (var)
 
